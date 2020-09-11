@@ -5,7 +5,7 @@
 ### Step 1: update your vendors by running
 
 ``` bash
-$ php composer.phar require cravler/maxmind-geoip-bundle:dev-master
+$ php composer.phar require clonealliance/maxmind-geoip-bundle:dev-master
 ```
 
 ### Step2: Enable the bundle

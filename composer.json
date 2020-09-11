@@ -1,5 +1,5 @@
 {
-    "name": "cravler/maxmind-geoip-bundle",
+    "name": "clonealliance/maxmind-geoip-bundle",
     "description": "Bundle integrating MaxMind GeoIP2 database into symfony application",
     "type": "symfony-bundle",
     "keywords": [
